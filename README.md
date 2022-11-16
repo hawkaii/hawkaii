@@ -8,9 +8,14 @@ I've been following the odin project for quite a few months. Currrenty learning 
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [parthibmukherjee@gmail.com](mailto:parthibmukherjee@gmail.com)
-*   🧠  I'm learning and mastering java
+*   🧠  I'm learning and mastering Java
 *   🤝  I'm open to collaborating on Web development projects
 *   ⚡  Hawkeye is my favourite superhero character besides Spiderman
+
+<hr />
+
+![Parthib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkaii&show_icons=true&theme=dark)
+
 <h2>Skills<h2>
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
