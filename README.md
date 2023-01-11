@@ -15,6 +15,7 @@ I've been following the odin project for quite a few months. Currrenty learning 
 <hr />
 
 ![Parthib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkaii&show_icons=true&theme=dark)
+![Parthib's Leetcode stats](https://leetcard.jacoblin.cool/hawkaii?theme=dark&font=Abel&ext=heatmap)
 
 <h2>Skills<h2>
 <p align="left">
