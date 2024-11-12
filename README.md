@@ -5,18 +5,18 @@ Computer Science & Engineering Student
 --------------------------------------
 **Check-out my [portfolio](https://hawkaii.netlify.app)**
 
-I've been following the odin project for quite a few months. Currrenty learning java from online resources. I'm also been admitted to a 4 year B.Tech course in CSE at Maulana Abdul Kalam Azad University of Technology .
+I've been following the odin project for quite a few months. Currrenty am learning back-end. I'm also been admitted to a 4 year B.Tech course in CSE at Maulana Abdul Kalam Azad University of Technology .
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [parthibmukherjee@gmail.com](mailto:parthibmukherjee@gmail.com)
-*   🧠  I'm learning and mastering Java
+*   🧠  I'm a back-end engineer and now learning golang
 *   🤝  I'm open to collaborating on Web development projects
 *   ⚡  Hawkeye is my favourite superhero character besides Spiderman
 
 <hr />
 
 ![Parthib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkaii&show_icons=true&theme=dark)
-![Parthib's Leetcode stats](https://leetcard.jacoblin.cool/hawkaii?theme=dark&font=Abel&ext=heatmap)
+
 
 <h2>Skills<h2>
 <p align="left">
