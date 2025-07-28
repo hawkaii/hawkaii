@@ -22,13 +22,6 @@ I specialize in building **scalable, high-performance backend systems** using **
 🛠️ **Tools:** Docker, GitHub Actions, Jest, Bitbucket Pipelines  
 🖥️ **OS:** Debian, Ubuntu, Fedora  
 
-## 💼 Experience  
-### **Software Developer Intern @ Tienext** *(Nov 2024 - Present)*  
-- Built **Node.js backend** with **session-based authentication** using Passport.js  
-- Designed database schemas in **MySQL & MongoDB**  
-- Developed **Express.js services**, optimized queries with **Prisma**  
-- Set up **CI/CD pipelines** using **Docker & Bitbucket Pipelines**  
-
 ## 🎓 Education  
 🎓 **B.Tech in Computer Science & Engineering** *(2022 - Present)*  
 📍 *Maulana Abul Kalam Azad University of Technology*  
