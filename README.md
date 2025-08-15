@@ -1,39 +1,36 @@
-# 👋 Hi, I'm Parthib Mukherjee  
+# 👋 Hi, I'm Parthib Mukherjee
 
-🚀 **Backend Engineer | Golang | Node.js | PostgreSQL | Cloud Enthusiast**  
+Backend Engineer | Go | Python | Cloud | Open Source
 
-I specialize in building **scalable, high-performance backend systems** using **Golang, Node.js, and PostgreSQL**. Passionate about **distributed systems, cloud infrastructure, and backend optimizations**, I love solving **real-world problems** through efficient code.  
+I build robust, scalable backend systems and love contributing to open-source. My interests include distributed systems, cloud-native tech, and backend architecture.
 
-📍 **Currently:**  
-- 🏗️ **Building scalable backend architectures**  
-- 🌩️ Exploring **Cloud Computing & DevOps**  
-- 🏆 Active in **hackathons & open-source**  
+## 🌐 Links
+- [LinkedIn](https://linkedin.com/in/hawkaii)
+- [Portfolio](https://hawkaii.me)
+- [Blog](https://blog.hawkaii.me)
+- 📫 parthibmukherjee@gmail.com
 
-## 🏆 Achievements  
-- **🏆 Winner** of **Hack4Bengal**, East India’s Largest Hackathon  
-  - Built an **AI-powered Discord bot** that converts messages into **Google Calendar events & reminders**  
-  - Integrated **Node.js, AI models, and Google Calendar API**  
-  - 🔗 [GitHub: Project Link](#) | [LinkedIn Post](#)  
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
-💻 **Languages:** Golang, JavaScript, Python, Bash, C, Java, OCaml  
-🗄️ **Databases:** PostgreSQL, SQLite, MySQL, MongoDB  
-☁️ **Cloud:** GCP, AWS, DigitalOcean  
-🛠️ **Tools:** Docker, GitHub Actions, Jest, Bitbucket Pipelines  
-🖥️ **OS:** Debian, Ubuntu, Fedora  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-## 🎓 Education  
-🎓 **B.Tech in Computer Science & Engineering** *(2022 - Present)*  
-📍 *Maulana Abul Kalam Azad University of Technology*  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 📜 Certifications  
-- **Learn File Servers & CDNs with S3 and CloudFront** - Boot.dev  
-- **Learn CI/CD with GitHub Actions, Docker, and Go** - Boot.dev  
+---
 
-## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/parthib-mukherjee-49581b254)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/hawkaii)  
-[![Email](https://img.shields.io/badge/Email-parthibmukherjee@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:parthibmukherjee@gmail.com)  
-
-🚀 **Always open to collaboration & new opportunities!**  
-
+Always open to collaboration!
